@@ -1,4 +1,8 @@
-﻿using System.Collections;
+﻿/*
+This script is used for repositioning the Main Camera to another position when the Player touches an object containing this script.
+*/
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

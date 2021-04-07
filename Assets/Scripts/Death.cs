@@ -1,4 +1,8 @@
-﻿using System.Collections;
+﻿/*
+This script is used for emulating a Player's "Death" by teleporting the Player back to their latest Checkpoint.
+*/
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

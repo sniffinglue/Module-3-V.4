@@ -1,4 +1,8 @@
-﻿using System.Collections;
+﻿/*
+This script is used to control the Player model
+*/
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

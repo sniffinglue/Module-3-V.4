@@ -1,4 +1,8 @@
-﻿using System.Collections;
+﻿/*
+This script is used for toggling on a UI Text component for a certain duration of time.
+*/
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using TMPro;

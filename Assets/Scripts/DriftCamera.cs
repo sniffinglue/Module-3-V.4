@@ -1,3 +1,9 @@
+/*
+This script is used for allowing our Car to switch camera positions.
+
+Every time the 'switchViewKey' (default: Space) is pressed, the Main Camera would swap positions to the 3 CamRig angles
+*/
+
 using System;
 using UnityEngine;
 

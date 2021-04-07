@@ -1,4 +1,8 @@
-﻿using UnityEngine;
+﻿/*
+This script is used for reseting the Car to the nearest Checkpoint
+*/
+
+using UnityEngine;
 using System.Collections.Generic;
 
 public class CarReset : MonoBehaviour

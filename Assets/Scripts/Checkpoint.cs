@@ -1,4 +1,10 @@
-﻿using System.Collections;
+﻿/*
+This script is used for keeping track of which Checkpoint the Player is assigned to.
+
+Once the Player touches a new Checkpoint, we reassign the old Checkpoint to the new coordinates.
+*/
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
