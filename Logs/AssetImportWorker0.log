@@ -588,3 +588,4 @@ Received Import Request.
 Start importing Assets/Scripts/Checkpoint.cs using Guid(ba6d18385d8e49b489fcb77aa081af2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b7f774e30b5d5f46188c2e5f349a2c2e') in 0.091848 seconds 
   Import took 0.108829 seconds .
 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
